@@ -1,8 +1,8 @@
 # Todo application created in react
 
 Start by running:
-npm install (*first time only)
-npm start
+-npm install (*first time only)
+-npm start
 
 Using
 * axios
